@@ -16,12 +16,12 @@ Customer:
 Choose preferred groceries and add to cart.
 Check out from transaction page.
                   
-                  Features to be added in the future:
-                  A rating system for each seller profile.
-                  Browse sellers and nearby farms.
-                  API for secure one-time login.
-                  Google Place API to find nearest locations based on database.
-                  Chat with seller option.
-                  Articles/recipes for living a healthy life.
+Features to be added in the future:
+A rating system for each seller profile.
+Browse sellers and nearby farms.
+API for secure one-time login.
+Google Place API to find nearest locations based on database.
+Chat with seller option.
+Articles/recipes for living a healthy life.
                 
 
