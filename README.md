@@ -6,15 +6,15 @@ The problem addressed:
                   Learn more in our Google Slides and how you can help: https://docs.google.com/presentation/d/10PFrAL7Vb8QMpbKwcyUi5NBHTeY6XWE_bFskT3rIXjk/edit?usp=sharing
 
 
-Website features: Login as seller/customer.
-                  Seller:
-                  To sell, choose from wide variety of accepted fruits, vegetables and others.
-                  Input quantity, price, add additional comments for buyer.
+Website features: 
+Login as seller/customer.
+Seller:
+To sell, choose from wide variety of accepted fruits, vegetables and others.
+Input quantity, price, add additional comments for buyer.
                   
-                  Customer:
-                  Choose preferred groceries and add to cart.
-                  Sort available groceries by nearest location.
-                  Check out from transaction page.
+Customer:
+Choose preferred groceries and add to cart.
+Check out from transaction page.
                   
                   Features to be added in the future:
                   A rating system for each seller profile.
